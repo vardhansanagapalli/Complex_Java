@@ -1,4 +1,13 @@
-class Product {
+/*You are provided with a public class Product with private attributes, productId, productName, price, and category.
+Write the necessary getters and setters and test using the main method in the UserInterface class and submit the code for evaluation.
+Note:
+    Ensure to follow the object-oriented specifications provided in the question description.
+    Ensure to provide the names for classes, attributes, and methods as specified in the question description.
+    Adhere to the code template, if provided.
+    Please do not use System.exit(0) to terminate the program*/
+
+//Program CODE
+    class Product {
     private int productId;
     private String productName;
     private float price;
